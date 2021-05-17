@@ -27,14 +27,15 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 <img src="renders/JiU_Angled_Back_from_Front.png" alt="back-back" width="600"/>
 
 # Technical Details
+- **Material:** Aluminum 6063
 - **Mounting Style:** Top mount/gummy o-ring mount (O-ring will not be included)
 - **Angle:** 7° typing angle
 - **Design:** Seamless
 - **Weight:** Bead-blasted stainless steel weight
 - **Color Options:**
-  - Pantone 7506 C Top/Bottom
-  - Pantone 8181 C Top/Bottom
-  - RAL 3005 Top / Pantone Black 6 C Bottom
+  - [Pantone 7506 C](https://www.pantone.com/color-finder/7506-C) Top/Bottom
+  - [Pantone 8181 C](https://www.pantone.com/color-finder/8181-C) Top/Bottom
+  - [RAL 3005](https://www.ralcolorchart.com/ral-classic/ral-3005-wine-red) Top / [Pantone Black 6 C](https://www.pantone.com/color-finder/Black-6-C) Bottom
 - **Total Units:** 30 total units + extras
 - **Cost:**
   - ~$460 for (Keyboard + Plate + PCB + Screws + Daughter board + JST Cable)
