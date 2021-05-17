@@ -39,7 +39,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - **Color Options:**
   - [Pantone 7506 C](https://www.pantone.com/color-finder/7506-C) Top/Bottom
   - [Pantone 8181 C](https://www.pantone.com/color-finder/8181-C) Top/Bottom
-  - [RAL 3005](https://www.ralcolorchart.com/ral-classic/ral-3005-wine-red) Top / [Pantone Black 6 C](https://www.pantone.com/color-finder/Black-6-C) Bottom
+  - [RAL 3005](https://www.ralcolorchart.com/ral-classic/ral-3005-wine-red) Top / [Pantone Black 6 C](https://www.pantone.com/color-finder/Black-6-C) Bottom (Odd Eye Edition)
 - **Total Units:** 30 total units + extras
 - **Cost:**
   - ~$460 for (Keyboard + Plate + PCB + Screws + Daughter board + JST Cable)
