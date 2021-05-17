@@ -2,8 +2,10 @@
 
 JiU is an F13 WKL TKL mechanical keyboard made by VX.KB. It was designed around [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). Join my [discord](https://discord.gg/cFghg3fnHT) to be up-to-date with information.
 
-<img src="https://preview.redd.it/hep9a7k2vyr61.jpg?width=640&crop=smart&auto=webp&s=4462db4e0faff89f4e2e8e9d50b950185ba6a6b4" alt="drawing" width="300"/>
-<img src="https://cdn.discordapp.com/attachments/816120729183322122/840393756649979935/image0.jpg" alt="drawing" width="300"/>
+<div style="display: flex; justify-content: space-evenly; height: 300px;">
+  <img src="https://preview.redd.it/hep9a7k2vyr61.jpg?width=640&crop=smart&auto=webp&s=4462db4e0faff89f4e2e8e9d50b950185ba6a6b4" alt="drawing" style="align-self: center;"/>
+  <img src="https://cdn.discordapp.com/attachments/816120729183322122/840393756649979935/image0.jpg" alt="drawing" style="align-self: center;"/>
+</div>
 
 # Table of Contents
 - [JiU](#jiu)
@@ -19,12 +21,14 @@ JiU is an F13 WKL TKL mechanical keyboard made by VX.KB. It was designed around 
 I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/watch?v=MZ4JGye4dQU) and have fell in love with the group ever since. Out of the seven members, JiU is my bias, so this is where the idea started forming. 
 
 # Renders
-<img src="renders/JiU_Top_Down.png" alt="top-down-jiu" width="600"/>
-<img src="renders/JiU_Bunny_.png" alt="close-up-bunny" width="600"/>
-<img src="renders/JiU_O-ring__New_JST_Trench.png" alt="interior" width="600"/>
-<img src="renders/JiU_Sides.png" alt="side" width="600"/>
-<img src="renders/JiU_Angled_Back.png" alt="front-back" width="600"/>
-<img src="renders/JiU_Angled_Back_from_Front.png" alt="back-back" width="600"/>
+<div style="display: flex; flex-direction: column; align-items: center;margin-left: 10%;">
+  <img src="renders/JiU_Top_Down.png" alt="top-down-jiu" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/JiU_Bunny_.png" alt="close-up-bunny" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/JiU_O-ring__New_JST_Trench.png" alt="interior" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/JiU_Sides.png" alt="side" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/JiU_Angled_Back.png" alt="front-back" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/JiU_Angled_Back_from_Front.png" alt="back-back" width="600"/>
+</div>
 
 # Technical Details
 - **Material:** Aluminum 6063
