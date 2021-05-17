@@ -37,7 +37,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - **Keyboard Designer:** [VX.KB](https://samuelle.me)
 - **Artists:**
   - [EURApsd](https://www.twitch.tv/eurapsd) for the JiU Bunny design
-  - [halcyonatl]([halcyon](https://twitter.com/halcyonatl) for the weight engravings
+  - [halcyonatl](https://twitter.com/halcyonatl) for the weight engravings
 - **Thanks to**
   - [acruelworld](https://www.instagram.com/cruelworld.wtf/?hl=en) for designing process help
   - **baks** for designing process help
