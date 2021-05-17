@@ -8,12 +8,12 @@ JiU is an F13 WKL TKL mechanical keyboard made by VX.KB. She was designed around
 I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/watch?v=MZ4JGye4dQU) and have fell in love with the group ever since. Out of the seven members, JiU is my bias, so this is where the idea started forming.
 
 ## Renders
-<img src="images/JiU_Top_Down.png" alt="top-down-jiu" width="600"/>
-<img src="images/JiU_Bunny_.png" alt="close-up-bunny" width="600"/>
-<img src="images/JiU_O-ring__New_JST_Trench.png" alt="interior" width="600"/>
-<img src="images/JiU_Sides.png" alt="side" width="600"/>
-<img src="images/JiU_Angled_Back.png" alt="front-back" width="600"/>
-<img src="images/JiU_Angled_Back_from_Front.png" alt="back-back" width="600"/>
+<img src="renders/JiU_Top_Down.png" alt="top-down-jiu" width="600"/>
+<img src="renders/JiU_Bunny_.png" alt="close-up-bunny" width="600"/>
+<img src="renders/JiU_O-ring__New_JST_Trench.png" alt="interior" width="600"/>
+<img src="renders/JiU_Sides.png" alt="side" width="600"/>
+<img src="renders/JiU_Angled_Back.png" alt="front-back" width="600"/>
+<img src="renders/JiU_Angled_Back_from_Front.png" alt="back-back" width="600"/>
 
 ## Technical Details
 - **Mounting Style:** Top mount/gummy o-ring mount
