@@ -61,7 +61,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - [Fusion360](https://www.autodesk.com/products/fusion-360/overview) for 3D CAD work
 
 # Credits
-- **Keyboard Designer:** [VX.KB](https://samuelle.me)
+- **Keyboard Designer:** [VX.KB](https://discord.gg/QGKdvyBxXS)
 - **Artists:**
   - [EURApsd](https://www.twitch.tv/eurapsd) for the JiU Bunny design
   - [halcyonatl](https://twitter.com/halcyonatl) for the weight engravings
