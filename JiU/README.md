@@ -74,6 +74,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - **Thanks to**
   - **1017BirckenThot** for designing process help
   - [acruelworld](https://discord.gg/hWDn2Ex2a9) for designing process help
+  - **Andromache** for moral support
   - **baks** for designing process help and rendering help
   - **Lau** for designing process help
   - **Miche** for designing process help
