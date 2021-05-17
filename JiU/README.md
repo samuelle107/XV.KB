@@ -70,8 +70,8 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
   - [acruelworld](https://discord.gg/hWDn2Ex2a9) for designing process help
   - **baks** for designing process help and rendering help
   - **Lau** for designing process help
-  - **miche** for designing process help
-  - **nvr_smile** for designing process help
+  - **Miche** for designing process help
+  - **Nvr_Smile** for designing process help
   - **Relapse** for designing process help
   - [yoot.kb](https://discord.gg/m6GQzHWjQY) for design checking
   - **AKPS** for the laughs
