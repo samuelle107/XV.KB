@@ -1,6 +1,6 @@
 # JiU
 
-JiU is an F13 WKL TKL mechanical keyboard made by VX.KB. She was designed around [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)).
+JiU is an F13 WKL TKL mechanical keyboard made by VX.KB. She was designed around [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). Join my [discord](https://discord.gg/cFghg3fnHT) to be up-to-date with information.
 
 <img src="https://preview.redd.it/hep9a7k2vyr61.jpg?width=640&crop=smart&auto=webp&s=4462db4e0faff89f4e2e8e9d50b950185ba6a6b4" alt="drawing" width="300"/>
 
@@ -25,7 +25,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
   - Pantone 8181 C
   - RAL 3005
 - **Total Units:** 30 total Units + Extras
-- **Cost:** Estimated cost of ~$450
+- **Cost:** ~$450
 - **PCB:** Hiney H88 PCB + unified daughterboard
 - **Plates:**
   - Aluminum
