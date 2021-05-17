@@ -60,6 +60,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - [**Plate Screws**](https://www.mcmaster.com/91292A010/)
 - [**Weight Screws**](https://www.mcmaster.com/91263A442/)
 - [**Plate Files**](https://github.com/samuelle107/VX.KB/tree/main/JiU/Plate%20Files)
+  - Get metal plates cut at [sendcutsend](https://sendcutsend.com/)
   
 # Software Used
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) for SVG designing
