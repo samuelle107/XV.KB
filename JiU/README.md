@@ -61,6 +61,8 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - [**Weight Screws**](https://www.mcmaster.com/91263A442/)
 - [**Plate Files**](https://github.com/samuelle107/VX.KB/tree/main/JiU/Plate%20Files)
   - Get metal plates cut at [sendcutsend](https://sendcutsend.com/)
+  - Get FR4 plates at [jlcpcb](https://jlcpcb.com/)
+    - They will complain about the dimensions on the plate. Just tell them that you know what you're doing.
   
 # Software Used
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) for SVG designing
