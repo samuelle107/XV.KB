@@ -88,8 +88,8 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
   - **1017BirckenThot** for designing process help
   - [acruelworld](https://discord.gg/hWDn2Ex2a9) for designing process help
   - **Andromache** for moral support
-  - **AKPS** for the laughs
   - **baks** for designing process help and rendering help
+  - **JAKPS** for the laughs
   - **JiU Zorru** for artist recommendations
   - [Keyboard Atelier](https://discord.gg/b7vwhHS) for designing process help
   - **Lau** for designing process help
