@@ -95,5 +95,5 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
   - **Lau** for designing process help
   - **Miche** for designing process help
   - **Nvr_Smile** for designing process help
-  - **Relapse** for designing process help
+  - **Relapse** for designing process help and plate modification
   - [yoot.kb](https://discord.gg/m6GQzHWjQY) for design checking
