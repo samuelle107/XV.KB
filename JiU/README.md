@@ -2,9 +2,19 @@
 
 JiU is an F13 WKL TKL mechanical keyboard made by VX.KB. It was designed around [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). Join my [discord](https://discord.gg/cFghg3fnHT) to be up-to-date with information.
 
-<div style="display: flex; justify-content: space-evenly;">
-  <img src="https://preview.redd.it/hep9a7k2vyr61.jpg?width=640&crop=smart&auto=webp&s=4462db4e0faff89f4e2e8e9d50b950185ba6a6b4" alt="drawing" style="align-self: center;" height="600px"/>
-  <img src="https://cdn.discordapp.com/attachments/816120729183322122/840393756649979935/image0.jpg" alt="drawing" style="align-self: center;" height="600px"/>
+<div>
+  <img
+    src="https://preview.redd.it/hep9a7k2vyr61.jpg?width=640&crop=smart&auto=webp&s=4462db4e0faff89f4e2e8e9d50b950185ba6a6b4"
+    alt="drawing"
+    style="align-self: center;"
+    width="40%"
+  />
+  <img
+    src="https://cdn.discordapp.com/attachments/816120729183322122/840393756649979935/image0.jpg"
+    alt="drawing"
+    style="align-self: center;"
+    width="40%"
+  />
 </div>
 
 # Table of Contents
@@ -61,6 +71,8 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - [**Weight Screws**](https://www.mcmaster.com/91263A442/)
 - [**Plate Files**](https://github.com/samuelle107/VX.KB/tree/main/JiU/Plate%20Files)
   - Get metal plates cut at [sendcutsend](https://sendcutsend.com/)
+  - Get FR4 plates at [jlcpcb](https://jlcpcb.com/)
+    - They will complain about the dimensions on the plate. Just tell them that you know what you're doing.
   
 # Software Used
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) for SVG designing
@@ -76,8 +88,9 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
   - **1017BirckenThot** for designing process help
   - [acruelworld](https://discord.gg/hWDn2Ex2a9) for designing process help
   - **Andromache** for moral support
-  - **AKPS** for the laughs
   - **baks** for designing process help and rendering help
+  - **JAKPS** for the laughs
+  - **JiU Zorru** for artist recommendations
   - [Keyboard Atelier](https://discord.gg/b7vwhHS) for designing process help
   - **Lau** for designing process help
   - **Miche** for designing process help
