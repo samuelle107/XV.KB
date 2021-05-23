@@ -1,6 +1,6 @@
 # JiU
 
-JiU is an F13 WKL TKL mechanical keyboard made by VX.KB. It was designed around [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). Join my [discord](https://discord.gg/cFghg3fnHT) to be up-to-date with information.
+JiU is an F13 WKL TKL mechanical keyboard made by XV.KB. It was designed around [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). Join my [discord](https://discord.gg/cFghg3fnHT) to be up-to-date with information.
 
 <div style="display: flex; justify-content: space-evenly;">
   <img
@@ -69,7 +69,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - [**Daughter Board Screws**](https://www.mcmaster.com/91292A004/)
 - [**Plate Screws**](https://www.mcmaster.com/91292A010/)
 - [**Weight Screws**](https://www.mcmaster.com/91263A442/)
-- [**Plate Files**](https://github.com/samuelle107/VX.KB/tree/main/JiU/Plate%20Files)
+- [**Plate Files**](https://github.com/samuelle107/XV.KB/tree/main/JiU/Plate%20Files)
   - Get metal plates cut at [sendcutsend](https://sendcutsend.com/)
   - Get FR4 plates at [jlcpcb](https://jlcpcb.com/)
     - They will complain about the dimensions on the plate. Just tell them that you know what you're doing.
@@ -80,7 +80,7 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 - [Fusion360](https://www.autodesk.com/products/fusion-360/overview) for 3D CAD work
 
 # Credits
-- **Keyboard Designer:** [VX.KB](https://discord.gg/QGKdvyBxXS)
+- **Keyboard Designer:** [XV.KB](https://discord.gg/QGKdvyBxXS)
 - **Artists:**
   - [EURApsd](https://www.twitch.tv/eurapsd) for the JiU Bunny design
   - [halcyonatl](https://twitter.com/halcyonatl) for the weight engravings
