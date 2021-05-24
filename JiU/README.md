@@ -34,6 +34,9 @@ I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/w
 <div style="display: flex; flex-direction: column; align-items: center;margin-left: 10%;">
   <img src="renders/JiU_Top_Down.png" alt="top-down-jiu" width="600" style="margin-bottom: 24px;"/>
   <img src="renders/JiU_Bunny_.png" alt="close-up-bunny" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/JiU Date.png" alt="close-up-bunny" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/xv_logo.png" alt="close-up-bunny" width="600" style="margin-bottom: 24px;"/>
+  <img src="renders/JiU Back.png" alt="close-up-bunny" width="600" style="margin-bottom: 24px;"/>
   <img src="renders/JiU_O-ring__New_JST_Trench.png" alt="interior" width="600" style="margin-bottom: 24px;"/>
   <img src="renders/JiU_Sides.png" alt="side" width="600" style="margin-bottom: 24px;"/>
   <img src="renders/JiU_Angled_Back.png" alt="front-back" width="600" style="margin-bottom: 24px;"/>
