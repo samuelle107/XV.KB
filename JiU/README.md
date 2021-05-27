@@ -28,7 +28,7 @@ JiU is an F13 WKL TKL mechanical keyboard made by XV.KB. It was designed around 
 - [Credits](#credits)
 
 # Inspiration
-I found out about Dreamcatcher during the ["Boca Era"](https://www.youtube.com/watch?v=MZ4JGye4dQU) and have fell in love with the group ever since. Out of the seven members, JiU is my bias, so this is where the idea started forming. 
+I discovered Dreamcatcher during the ["Boca Era"](https://www.youtube.com/watch?v=MZ4JGye4dQU) and have fell in love with the group ever since. Out of the seven members, JiU is my bias, so this is where the inspiration came from. 
 
 # Renders
 <div style="display: flex; flex-direction: column; align-items: center;margin-left: 10%;">
