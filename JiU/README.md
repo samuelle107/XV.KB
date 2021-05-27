@@ -1,6 +1,6 @@
 # JiU
 
-JiU is an F13 WKL TKL mechanical keyboard made by XV.KB. It was designed around [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). Join my [discord](https://discord.gg/cFghg3fnHT) to be up-to-date with information.
+JiU is an F13 WKL TKL mechanical keyboard designed by XV.KB. It's inspiration was based on [JiU](https://kpop.fandom.com/wiki/JiU_(Dreamcatcher)) from [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)). To keep up with the board, join my [discord](https://discord.gg/cFghg3fnHT).
 
 <img
   src="https://preview.redd.it/hep9a7k2vyr61.jpg?width=640&crop=smart&auto=webp&s=4462db4e0faff89f4e2e8e9d50b950185ba6a6b4"
