@@ -6,7 +6,7 @@ My name is [Sam](https://samuelle.me), and I am the designer behind XV.KB. Here,
 
 #### Links
 - [Discord](https://discord.gg/cFghg3fnHT)
-- [Instagram](https://www.instagram.com/_vx.kb/)
+- [Instagram](https://www.instagram.com/_xv.kb/)
 
 # Designs
 
