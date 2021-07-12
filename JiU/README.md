@@ -95,4 +95,5 @@ I discovered Dreamcatcher during the ["Boca Era"](https://www.youtube.com/watch?
   - **Miche** for designing process help and Adobe Illustrator help
   - **Nvr_Smile** for designing process help
   - **Relapse** for designing process help and plate modification
+  - **Sanctified** for designing process help
   - [yoot.kb](https://discord.gg/m6GQzHWjQY) for design checking
